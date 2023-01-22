@@ -3,6 +3,7 @@ Welcome my friend
 Check for third line
 something new from local machine.
 This is a line added from the bug fix branch.
+This is made on the feature branch.
 don`t forget master boy.
 
 
