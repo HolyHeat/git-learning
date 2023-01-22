@@ -2,7 +2,7 @@
 Welcome my friend
 Check for third line
 something new from local machine.
-
+This is a line added from the bug fix branch.
 don`t forget master boy.
 
 
